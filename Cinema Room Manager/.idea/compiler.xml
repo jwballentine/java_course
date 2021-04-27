@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Cinema_Room_Manager-Problems-Print__Hello,_Java!__main" target="11" />
+      <module name="Cinema_Room_Manager-Problems-Print__Hello,_Java!__test" target="11" />
+      <module name="Cinema_Room_Manager-task_main" target="11" />
+      <module name="Cinema_Room_Manager-task_test" target="11" />
+      <module name="Problems-Area_of_parallelogram_main" target="11" />
+      <module name="Problems-Area_of_parallelogram_test" target="11" />
+      <module name="Problems-Avoid_division_by_zero_main" target="11" />
+      <module name="Problems-Avoid_division_by_zero_test" target="11" />
+      <module name="Problems-Avoid_NPE_main" target="11" />
+      <module name="Problems-Avoid_NPE_test" target="11" />
+      <module name="Problems-Calculate_Square_main" target="11" />
+      <module name="Problems-Calculate_Square_test" target="11" />
+      <module name="Problems-Calculator_with_four_methods_main" target="11" />
+      <module name="Problems-Calculator_with_four_methods_test" target="11" />
+      <module name="Problems-Call_me_awesome_main" target="11" />
+      <module name="Problems-Call_me_awesome_test" target="11" />
+      <module name="Problems-Create_a_full_name_main" target="11" />
+      <module name="Problems-Create_a_full_name_test" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_main" target="11" />
+      <module name="Problems-Cyclically_shifting_elements_test" target="11" />
+      <module name="Problems-Direction_main" target="11" />
+      <module name="Problems-Direction_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_test" target="11" />
+      <module name="Problems-Fix_the_program_main" target="11" />
+      <module name="Problems-Fix_the_program_test" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__main" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__test" target="11" />
+      <module name="Problems-Fixing_the_main_method_main" target="11" />
+      <module name="Problems-Fixing_the_main_method_test" target="11" />
+      <module name="Problems-Floor-space_of_the_room_main" target="11" />
+      <module name="Problems-Floor-space_of_the_room_test" target="11" />
+      <module name="Problems-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
+      <module name="Problems-Inverse_boolean_flags_main" target="11" />
+      <module name="Problems-Inverse_boolean_flags_test" target="11" />
+      <module name="Problems-Out_of_bounds!_main" target="11" />
+      <module name="Problems-Out_of_bounds!_test" target="11" />
+      <module name="Problems-Print__Hello,_Java!__main" target="11" />
+      <module name="Problems-Print__Hello,_Java!__test" target="11" />
+      <module name="Problems-Print_the_age_main" target="11" />
+      <module name="Problems-Print_the_age_test" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_main" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_test" target="11" />
+      <module name="Problems-Rotate_a_rectangle_array_main" target="11" />
+      <module name="Problems-Rotate_a_rectangle_array_test" target="11" />
+      <module name="Problems-Sorting_numbers_main" target="11" />
+      <module name="Problems-Sorting_numbers_test" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_main" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_test" target="11" />
+      <module name="Problems-The_integer_barrier_main" target="11" />
+      <module name="Problems-The_integer_barrier_test" target="11" />
+      <module name="Problems-The_sign_of_a_number_main" target="11" />
+      <module name="Problems-The_sign_of_a_number_test" target="11" />
+      <module name="Problems-The_smallest_value_main" target="11" />
+      <module name="Problems-The_smallest_value_test" target="11" />
+      <module name="Problems-The_sum_of_array_elements_main" target="11" />
+      <module name="Problems-The_sum_of_array_elements_test" target="11" />
+      <module name="Problems-The_sum_of_elements_main" target="11" />
+      <module name="Problems-The_sum_of_elements_test" target="11" />
+      <module name="Problems-Two_numbers_never_occur_next_to_each_other_main" target="11" />
+      <module name="Problems-Two_numbers_never_occur_next_to_each_other_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
+      <module name="Problems-What's_wrong__main" target="11" />
+      <module name="Problems-What's_wrong__test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

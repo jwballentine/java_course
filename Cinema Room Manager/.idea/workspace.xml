@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8368cf15-ca48-465a-9113-946b8be65755" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="16" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qmYgPlU0CkX0CamR9URevubOOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-The_sign_of_a_number_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8368cf15-ca48-465a-9113-946b8be65755" name="Default Changelist" comment="" />
+      <created>1617686342503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617686342503</updated>
+      <workItem from="1617686345160" duration="37000" />
+      <workItem from="1617686417359" duration="637000" />
+      <workItem from="1617759896247" duration="598000" />
+      <workItem from="1617769723221" duration="1847000" />
+      <workItem from="1617771692788" duration="1754000" />
+      <workItem from="1617773526773" duration="1892000" />
+      <workItem from="1617775474110" duration="1802000" />
+      <workItem from="1617777381578" duration="630000" />
+      <workItem from="1618121399975" duration="1617000" />
+      <workItem from="1618123879734" duration="1785000" />
+      <workItem from="1618125713670" duration="1650000" />
+      <workItem from="1618280228071" duration="1852000" />
+      <workItem from="1618282310405" duration="1807000" />
+      <workItem from="1618284151517" duration="1772000" />
+      <workItem from="1618291096204" duration="2054000" />
+      <workItem from="1618293252213" duration="1657000" />
+      <workItem from="1618295139763" duration="703000" />
+      <workItem from="1618375875066" duration="2121000" />
+      <workItem from="1618378242108" duration="864000" />
+      <workItem from="1618545668678" duration="724000" />
+      <workItem from="1619480932641" duration="1775000" />
+      <workItem from="1619482746358" duration="1685000" />
+      <workItem from="1619484945886" duration="1781000" />
+      <workItem from="1619486913129" duration="981000" />
+      <workItem from="1619500554262" duration="1731000" />
+      <workItem from="1619502379063" duration="1250000" />
+      <workItem from="1619504676414" duration="1790000" />
+      <workItem from="1619506532628" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="-854" key="#Project_Structure" timestamp="1617769946050">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="314" y="-854" key="#Project_Structure/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1617769946050" />
+    <state width="1719" height="318" key="GridCell.Tab.0.bottom" timestamp="1618376536185">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.0.bottom/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376536184" />
+    <state width="1719" height="318" key="GridCell.Tab.0.center" timestamp="1618376536184">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.0.center/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376536184" />
+    <state width="1719" height="318" key="GridCell.Tab.0.left" timestamp="1618376536183">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.0.left/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376536183" />
+    <state width="1719" height="318" key="GridCell.Tab.0.right" timestamp="1618376536184">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.0.right/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376536184" />
+    <state width="1719" height="318" key="GridCell.Tab.1.bottom" timestamp="1618376105066">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.1.bottom/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376105066" />
+    <state width="1719" height="318" key="GridCell.Tab.1.center" timestamp="1618376105065">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.1.center/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376105065" />
+    <state width="1719" height="318" key="GridCell.Tab.1.left" timestamp="1618376105065">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.1.left/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376105065" />
+    <state width="1719" height="318" key="GridCell.Tab.1.right" timestamp="1618376105066">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1719" height="318" key="GridCell.Tab.1.right/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1618376105066" />
+    <state x="393" y="-688" key="com.intellij.ide.util.TipDialog" timestamp="1619506531656">
+      <screen x="-232" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="393" y="-688" key="com.intellij.ide.util.TipDialog/-232.-1055.1920.1055/0.25.1440.790@-232.-1055.1920.1055" timestamp="1619506531656" />
+  </component>
+</project>
